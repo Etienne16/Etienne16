@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Etienne16
-- 👀 I’m interested in programming and especialy for embedded system and web
-- 🌱 I’m currently learning Informatique Appliquée at Institut Superieur de Techniques Appliquées
+- 👀 I’m interested in programming especialy for android, embedded system and web
 - 💞️ I’m looking to collaborate on project in which C++,C and Javascript are used.
 - 📫 How to reach me ...
 
